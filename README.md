@@ -79,27 +79,16 @@ Each of us came up with our own prototype to decide what is best suited for the 
 
 #### Restaurant Directory (A-Z)
 
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%201.png">
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%202.png">
-|
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%201.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%202.png"> |
 
 #### Restaurant Directory (Types of Cuisine)
 
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%203.png">
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%204.png">
-|
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%203.png"> | 
+<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%204.png"> |
 
 #### Restaurant Directory (Level)
 
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%205.png">
-|
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%206.png">
-|
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%205.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%206.png"> |
 
 #### Restaurant Directory (Shop Detail)
 
@@ -113,6 +102,28 @@ Each of us came up with our own prototype to decide what is best suited for the 
 
 <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%209.png">
 
-## Orbital (Project Gemini)
+## Civic Soul (Orbital, Project Gemini)
 
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%209.png">
+The phone application that Boo Ming Hui and I worked on is to assist university students to be able to find community work or services more easily.
+
+### Problem
+From primary school to junior college, schools have always been helping students arrange community service work to do through the use of Community Involvement Programme. At university, this may no longer be the case. We suspected that university students might have wanted to do more community work themselves but have no idea on where to look for them. In addition, organisations that arranges community service work for volunteers might have no idea on where to find these volunteers.
+
+### Solution
+We decided to create a phone application that acts as an intermediary between students and volunteer organisations.
+
+<img width="800" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Civic%20Soul%20Poster.png">
+
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Login%20Page%20(New).png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Register%20(New).png"> | 
+|:----------:|:--------:|
+| Login Page | Register |
+
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Main%20Page%20Updated.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Work%20Listing%20Updated.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Work.png"> |
+|:---------:|:------------:|:----:|
+| Main Page | Work Listing | Work |
+
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Update%20Profile.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Verify%20Email.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Email%20Verification%20Page.png"> |
+|:--------------:|:------------:|:------------------:|
+| Update Profile | Verify Email | Email Confirmation |
+
+
