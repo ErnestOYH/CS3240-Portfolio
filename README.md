@@ -90,17 +90,9 @@ Each of us came up with our own prototype to decide what is best suited for the 
 
 | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%205.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%206.png"> |
 
-#### Restaurant Directory (Shop Detail)
-
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%207.png">
-
-#### Map (Locating a restaurant)
-
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%208.png">
-
-#### Side Menu
-
-<img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%209.png">
+| <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%207.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%208.png"> | <img width="200" height="400" src="https://github.com/ErnestOYH/CS3240-Portfolio/blob/master/images/Android%20Mobile%20%E2%80%93%209.png"> |
+|:------------:|:---------------------:|:---------:|
+| Shop Details | Locating a restaurant | Side Menu |
 
 ## Civic Soul (Orbital, Project Gemini)
 
